@@ -8,4 +8,6 @@ Bot is integrated with Facebook Messenger and Whatsapp.
 `Whatsapp`<br />
 
 ## Video
-![Conversation flow](./video/chatbot.mp4)
+https://user-images.githubusercontent.com/20940762/193800237-c5c04231-f5c6-450b-971b-08cf6c2cb26f.mp4
+
+
